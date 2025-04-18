@@ -1,5 +1,5 @@
 # PerformanStats
-https://github.com/Javon75/PerformanStats
+(https://roadmap.sh/projects/server-stats)
 estadísticas básicas de rendimiento de un servidor
 a manera de ejercicio cree un script .sh que puede analizar las estadísticas básicas de rendimiento del servidor. 
 se puede ejecutar en cualquier servidor tanto linux como windows, para ejecutarlo en windows se requiere tener WSL o Cygwin.
