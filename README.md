@@ -8,3 +8,10 @@ debería mostrarte las siguientes estadísticas:
 -- Uso total del disco (libre vs. usado, incluido el porcentaje)
 -- Los 5 procesos principales por uso de CPU
 -- Los 5 procesos principales por uso de memoria
+
+Pasos
+1- Guarda el archivo nombreXX.sh
+2- Dale permisos de ejecución (en Linux/Mac):
+   chmod +x nombreXX.sh
+3- Ejecútalo:
+   ./server_stats.sh
